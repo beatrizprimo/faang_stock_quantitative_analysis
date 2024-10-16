@@ -1,1 +1,1 @@
-# faang_stock_quantitative_analysis
+# FAANG Stock Portfolio for Risk and Return
